@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CashBack</string>
+    <string name="geo_api_key" translatable="false">AIzaSyCRqkSP2ccSVrYQmATHc5VDTxQU-YdusYg</string>
+    <string name="facebook_app_id" translatable="false">213584046866151</string>
+</resources>

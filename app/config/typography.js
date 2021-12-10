@@ -1,0 +1,21 @@
+import EStyleSheet from "react-native-extended-stylesheet";
+
+export const FontFamily = {
+
+};
+
+export const FontWeight = {
+  thin: "100",
+  ultraLight: "200",
+  light: "300",
+  regular: "400",
+  medium: "500",
+  semibold: "600",
+  bold: "700",
+  heavy: "800",
+  black: "900"
+};
+
+export const Typography = EStyleSheet.create({
+
+});

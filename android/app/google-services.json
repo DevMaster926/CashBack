@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639984185156",
+    "project_id": "esi-cashback",
+    "storage_bucket": "esi-cashback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639984185156:android:9f2f3cd22498410e383111",
+        "android_client_info": {
+          "package_name": "com.cashback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639984185156-li9qfe33p9m18ud3hpmdkr90bbsnak63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqkSP2ccSVrYQmATHc5VDTxQU-YdusYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639984185156-li9qfe33p9m18ud3hpmdkr90bbsnak63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

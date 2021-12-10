@@ -1,0 +1,26 @@
+let BaseColor = {
+  '$primaryColor': "#0b7fef", 
+  '$contentColor' : "#ffffff",
+  '$contentColor1' : "#eee",
+  '$textColor' : '#202020',
+  '$grayColor' : "#05b056",
+  '$inputBoderColor' : "#E0E0E1",
+  '$placeColor': "#636563",
+  '$fontColor': "#707070",
+  '$errorColor': "#EB5757",
+  '$categoryColor': "#f07431",
+  '$whiteColor': "#FFF",
+  '$transparent': "#0000",
+  '$purpleColor':'#b31ba3',
+  '$giftColor': '#E6C1EA',
+  '$mainColor1': '#4298d4',
+  '$mainColor2': '#6563aa',
+  '$mainColor3': '#a4ca1b',
+  '$giftPriceColor': '#3f345b',
+  '$productColor': '#0faedf',
+  '$primaryButtonColor': '#1b81d2',
+  '$cashbackColor': '#007990',
+};
+export {
+  BaseColor,
+};
